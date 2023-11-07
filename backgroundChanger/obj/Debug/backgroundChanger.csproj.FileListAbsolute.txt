@@ -1,0 +1,10 @@
+C:\Users\Z4CK\Desktop\Z4CK\Code Files\Projects\backgroundChanger\backgroundChanger\bin\Debug\backgroundChanger.exe.config
+C:\Users\Z4CK\Desktop\Z4CK\Code Files\Projects\backgroundChanger\backgroundChanger\bin\Debug\backgroundChanger.exe
+C:\Users\Z4CK\Desktop\Z4CK\Code Files\Projects\backgroundChanger\backgroundChanger\bin\Debug\backgroundChanger.pdb
+C:\Users\Z4CK\Desktop\Z4CK\Code Files\Projects\backgroundChanger\backgroundChanger\obj\Debug\backgroundChanger.csproj.AssemblyReference.cache
+C:\Users\Z4CK\Desktop\Z4CK\Code Files\Projects\backgroundChanger\backgroundChanger\obj\Debug\backgroundChanger.Form1.resources
+C:\Users\Z4CK\Desktop\Z4CK\Code Files\Projects\backgroundChanger\backgroundChanger\obj\Debug\backgroundChanger.Properties.Resources.resources
+C:\Users\Z4CK\Desktop\Z4CK\Code Files\Projects\backgroundChanger\backgroundChanger\obj\Debug\backgroundChanger.csproj.GenerateResource.cache
+C:\Users\Z4CK\Desktop\Z4CK\Code Files\Projects\backgroundChanger\backgroundChanger\obj\Debug\backgroundChanger.csproj.CoreCompileInputs.cache
+C:\Users\Z4CK\Desktop\Z4CK\Code Files\Projects\backgroundChanger\backgroundChanger\obj\Debug\backgroundChanger.exe
+C:\Users\Z4CK\Desktop\Z4CK\Code Files\Projects\backgroundChanger\backgroundChanger\obj\Debug\backgroundChanger.pdb
